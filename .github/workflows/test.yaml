@@ -27,3 +27,4 @@ jobs:
       - name: Verify Running Services
         run: |
           docker compose ps
+
